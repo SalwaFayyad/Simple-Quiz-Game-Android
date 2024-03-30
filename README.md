@@ -14,6 +14,4 @@ Key Features:
 
 Rapid Quiz offers a thrilling way for users to sharpen their knowledge and hone their ability to make quick decisions under pressure. Whether used for educational purposes or as a fun pastime, this app promises an exhilarating quiz experience that will keep players coming back for more.
 
-[Uploading Screen_recording_20240330_151121.webm…]()
-
-
+[Screen_recording_20240330_151121.webm](https://github.com/SalwaFayyad/Simple-Quiz-Game-Android/assets/104863637/bf08d1b5-0a7d-460b-9494-493fae289844)
